@@ -7,6 +7,12 @@
 
 Python · uv · Gemini via LangChain `init_chat_model` · FastAPI · Streamlit · SQLite
 
+## Architecture at a glance
+
+![Project architecture](assets/screenshots/architecture.svg)
+
+Source-based architecture overview. Follow the [walkthrough](docs/WALKTHROUGH.md) to run the actual workflow.
+
 ## What this project demonstrates
 
 MCP client → Catalog tools / resources → Public CSV and PDF; A2A client → Evidence agent
