@@ -1,0 +1,10 @@
+{
+  "title": "ProtocolBridge",
+  "repository": "protocolbridge-mcp-a2a",
+  "description": "Real MCP tools/resources and A2A agent discovery over public CSV/PDF data, with stdio and authenticated HTTP transports.",
+  "demo": "mcp",
+  "url": "https://github.com/Swaroopfullstack/protocolbridge-mcp-a2a",
+  "source_revision": "d4880b602e4748815f0fd0533d4dcb892585e02a",
+  "source_project": "05-protocolbridge",
+  "runtime": "vendored self-contained portfolio package"
+}
